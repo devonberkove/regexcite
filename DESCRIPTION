@@ -2,9 +2,13 @@ Package: regexcite
 Title: STAT306 Unique Package Project 
 Version: 0.0.0.9000
 Authors@R: 
-    person("Devon", "Berkove", "djb050@bucknell.edu", role = c("aut", "cre"))
+    person("Devon", "Berkove", email = "djb050@bucknell.edu",
+           role = c("aut", "cre"))
 Description: This is a personal package froject for STAT306 at Bucknell.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.0
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
