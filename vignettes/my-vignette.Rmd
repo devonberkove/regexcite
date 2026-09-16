@@ -1,8 +1,8 @@
 ---
-title: "my-vignette"
+title: "my-vignette_1"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{my-vignette}
+  %\VignetteIndexEntry{my-vignette_1}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
